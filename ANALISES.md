@@ -1,7 +1,7 @@
 ## Table of contents
 - [1. The problem](#1-the-problem)
 - [2. The data](#2-the-data)
-- [3. Comparing different scaler functions](#3-comparing-scaler)
+- [3. Comparing different scaler functions](#3-comparing-different-scaler-functions)
     - [3.1. Normalization scaler: scatter and hist (01-06-2020 to 08-06-2020)](#3-normalization-scaler)
     - [3.2. Standard scaler: scatter and hist (01-06-2020 to 08-06-2020)](#3-standard-scaler)
     - [3.3. Max abs scaler: scatter and hist (01-06-2020 to 08-06-2020)](#3-max-abs-scaler)
@@ -9,7 +9,7 @@
     - [3.5. Power transformer: scatter and hist (01-06-2020 to 08-06-2020)](#3-power-transformer-scaler)
     - [3.6. Robust scaler: scatter and hist (01-06-2020 to 08-06-2020)](#3-robust--scaler)
 
-- [4. The optimal number of cluster](#4-cluster-optimal)
+- [4. The optimal number of cluster](#4-the-optimal-number-of-cluster)
 
 # 1. The problem
 
